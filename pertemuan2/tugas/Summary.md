@@ -1,0 +1,1 @@
+pada pertemuan kali ini saya senang karena kita belajar dari dasar banget, untuk contoh pada pertemuan pertama kita di ajarkan dasar dasar menggunakan git untuk mempermudah pekerjaan. kemudian di pertemuan kedua nya pada hari minggu kami di ajarkan dasar dasar php terutama pembahasan nya mengenai tipe data, variable, function, dan juga cara penulisan syntax php yang benar.
